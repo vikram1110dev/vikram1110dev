@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Full-Stack+Developer+(ASP.NET+MVC+%7C+SQL+Server);Android+Developer+(Java);AI%2FML+%7C+Computer+Vision+(YOLO%2FCNN);Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;AFull-Stack+Developer+(ASP.NET+MVC+%7C+SQL+Server);Android+Developer+(Java);AI%2FML+%7C+Computer+Vision+(YOLO%2FCNN);Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 ---
@@ -59,24 +59,11 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:vikrambalamurugan11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vikram-b-164834295?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center"><i>🌱 Currently open to Software Engineer opportunities</i></p>
