@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student; Full-Stack+Developer+(ASP.NET+MVC+%7C+SQL+Server);Android+Developer+(Java);AI%2FML+%7C+Computer+Vision+(YOLO%2FCNN);Always+learning%2C+always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student;Full-Stack+Developer+(ASP.NET+MVC+%7C+SQL+Server);Android+Developer+(Java);AI%2FML+%7C+Computer+Vision+(YOLO%2FCNN);Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
 
 ---
